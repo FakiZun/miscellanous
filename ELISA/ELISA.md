@@ -10,7 +10,7 @@
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<html><center><h1> The analysis of ELISA serial dilution and optical density measurements</h1></center>
+<html><h1>Download the folder and view the html file to correctly show the contents</h1><center><h1> The analysis of ELISA serial dilution and optical density measurements</h1></center>
 
 <center> <h2>By <i>Huijun Park</i></h2></center>
 
